@@ -12,7 +12,7 @@ Welcome to Glide Number Verification Quickstart project! This web app is built w
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:ClearBlockchain/number-verification-nodejs-server-demo.git
+git clone git@github.com:GlideApis/number-verification-nodejs-server-demo.git
 cd number-verification-nodejs-server-demo
 ```
 
