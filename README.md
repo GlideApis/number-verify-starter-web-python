@@ -1,4 +1,4 @@
-# Number Verification Quickstart App Node
+# Number Verification Quickstart App Python
 
 Welcome to Glide Number Verification Quickstart project! This web app is built with Express and deploys seamlessly to Google Cloud Platform (GCP) using CloudRun. Follow the instructions below to get started quickly.
 
